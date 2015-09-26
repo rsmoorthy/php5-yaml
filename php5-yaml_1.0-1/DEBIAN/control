@@ -1,0 +1,10 @@
+Package: php5-yaml
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Moorthy
+Depends: libc6 (>= 2.2.5)
+Section: php
+Priority: optional
+Description: yaml module for php5
+ YAML module for php5
+
